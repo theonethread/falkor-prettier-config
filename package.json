@@ -1,0 +1,52 @@
+{
+  "name": "@falkor/falkor-prettier-config",
+  "version": "0.0.1",
+  "description": "Shared Prettier configuration module to be used with the Falkor Framework",
+  "author": {
+    "name": "Barnabas Bucsy",
+    "url": "https://github.com/theonethread"
+  },
+  "contributors": [
+    {
+      "name": "Barnabas Bucsy",
+      "url": "https://github.com/theonethread"
+    }
+  ],
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://github.com/theonethread/falkor-prettier-config/#readme",
+  "repository": "github:theonethread/falkor-prettier-config",
+  "bugs": "https://github.com/theonethread/falkor-prettier-config/issues",
+  "funding": [
+    {
+      "type": "ko-fi",
+      "url": "https://ko-fi.com/falkor_framework"
+    },
+    {
+      "type": "individual",
+      "url": "https://www.linkedin.com/in/barnabas-bucsy"
+    }
+  ],
+  "keywords": [
+    "falkor",
+    "prettier",
+    "config"
+  ],
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "engines": {
+    "node": ">=18",
+    "npm": ">=8"
+  },
+  "engineStrict": true,
+  "main": "prettierrc.cjs",
+  "dependencies": {
+    "prettier": "2.8.8"
+  },
+  "devDependencies": {
+    "@falkor/falkor-cspell-config": "0.0.1"
+  }
+}
