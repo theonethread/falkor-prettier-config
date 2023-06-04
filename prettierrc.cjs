@@ -1,6 +1,6 @@
 /** @type { import("prettier").Options } */
 module.exports = {
-    endOfLine: "lf",
+    endOfLine: "auto",
     printWidth: 120,
     tabWidth: 4,
     semi: true,
