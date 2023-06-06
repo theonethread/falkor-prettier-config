@@ -43,6 +43,9 @@
   },
   "engineStrict": true,
   "main": "prettierrc.cjs",
+  "files": [
+    "prettierrc.cjs"
+  ],
   "dependencies": {
     "prettier": "2.8.8"
   },
